@@ -6,7 +6,7 @@
 <br/>
 
 - 🔭 I’m currently interning on <b>[Flymore](https://flymore.id)</b>
-- 🌱 I’m a <b>Computer Science</b> Student in <b>BINUS</b>
+- 🌱 I’m a Second Year<b>Computer Science</b> Student in <b>BINUS</b>
 - 👯 I’m looking to collaborate on <b>Open Source Projects</b>
 - 📫 How to reach me: aghnajp2@gmail.com
 
