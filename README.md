@@ -8,4 +8,4 @@
 - 📫 How to reach me: aghnajp2@gmail.com
 
 
-
+![Aghna's github stats](https://github-readme-stats.vercel.app/api?username=aghnaJP&show_icons=true&hide=["prs","issues","contribs"])
